@@ -1,4 +1,4 @@
-# Advent-of-Code-2025
+# Advent-of-Code-2026
 
 Another year, another attempt at this frustrating thing.
 This time 12 days only.
